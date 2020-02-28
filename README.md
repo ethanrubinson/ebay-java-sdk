@@ -1,14 +1,16 @@
 # ebay-java-sdk
 >**Version 1131**
 
-
-This is a clone of the official eBay Java SDK distribution, but structured as a Maven project for easy installation and use in Java applications.
+This is a clone of the official eBay Java SDK distribution, but structured as a Maven project for easy installation and use in Java applications. The SDK provides a simple Java API for calling eBay's [Trading API](https://developer.ebay.com/Devzone/XML/docs/Reference/ebay/index.html).
 
 Javadocs for the latest official distribution of the SDK can be found [here](https://developer.ebay.com/DevZone/Javasdk-jaxb/docs/LibRef/index.html).
 
-## Usage
+The release notes for version 1131 of the Trading API can be found [here](https://developer.ebay.com/DevZone/XML/docs/ReleaseNotes.html#1131)
 
-You must build and install the eBay Java SDK before including it as a dependency in your application. Included is the [Maven Wrapper](https://github.com/takari/maven-wrapper) which you can use if you don't have Maven already installed.
+## Usage
+>Note: You need an [eBay Developer Account](https://developer.ebay.com/) to use this SDK.
+
+You must build and install the eBay Java SDK before including it as a dependency in your application. Included in this repository is the [Maven Wrapper](https://github.com/takari/maven-wrapper) which you can use if you don't have Maven already installed.
 
 ### Building and Installing the eBay Java SDK
 
