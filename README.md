@@ -4,6 +4,8 @@
 
 This is a clone of the official eBay Java SDK distribution, but structured as a Maven project for easy installation and use in Java applications.
 
+Javadocs for the latest official distribution of the SDK can be found [here](https://developer.ebay.com/DevZone/Javasdk-jaxb/docs/LibRef/index.html).
+
 ## Usage
 
 You must build and install the eBay Java SDK before including it as a dependency in your application. Included is the [Maven Wrapper](https://github.com/takari/maven-wrapper) which you can use if you don't have Maven already installed.
