@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8" ?><eBay>
+<EBayTime>2005-08-02 22:46:03</EBayTime><Details>
+<Detail>
+<Type>1</Type><Name>EndItemCode</Name><Entry>
+<Value>1</Value><Description><![CDATA[The item was lost or broken]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[The item is no longer available for sale]]></Description></Entry>
+<Entry>
+<Value>3</Value><Description><![CDATA[The Minimum Bid or Reserve Price is incorrect]]></Description></Entry>
+<Entry>
+<Value>4</Value><Description><![CDATA[The listing contained an error (not in Minimum Bid or Reserve Price)]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>Region</Name><Entry>
+<Value>110010</Value><Description><![CDATA[Aberdeen]]></Description></Entry>
+<Entry>
+<Value>110012</Value><Description><![CDATA[Belfast]]></Description></Entry>
+<Entry>
+<Value>110003</Value><Description><![CDATA[Birmingham]]></Description></Entry>
+<Entry>
+<Value>110009</Value><Description><![CDATA[Bristol]]></Description></Entry>
+<Entry>
+<Value>110013</Value><Description><![CDATA[Cardiff]]></Description></Entry>
+<Entry>
+<Value>110004</Value><Description><![CDATA[Edinburgh]]></Description></Entry>
+<Entry>
+<Value>110006</Value><Description><![CDATA[Glasgow]]></Description></Entry>
+<Entry>
+<Value>110005</Value><Description><![CDATA[Leeds]]></Description></Entry>
+<Entry>
+<Value>110001</Value><Description><![CDATA[London]]></Description></Entry>
+<Entry>
+<Value>110002</Value><Description><![CDATA[Manchester]]></Description></Entry>
+<Entry>
+<Value>110007</Value><Description><![CDATA[Newcastle]]></Description></Entry>
+<Entry>
+<Value>110008</Value><Description><![CDATA[Sheffield]]></Description></Entry>
+<Entry>
+<Value>110011</Value><Description><![CDATA[Swansea]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>PaymentOption</Name><Entry>
+<Value>0</Value><Description><![CDATA[Money Order or Cashier's Check]]></Description></Entry>
+<Entry>
+<Value>1</Value><Description><![CDATA[Personal Check]]></Description></Entry>
+<Entry>
+<Value>8</Value><Description><![CDATA[Payment Option See Description]]></Description></Entry>
+<Entry>
+<Value>17</Value><Description><![CDATA[PayPal]]></Description></Entry>
+<Entry>
+<Value>20</Value><Description><![CDATA[Credit Card Accepted]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>2</Type><Name>FixedFees</Name><Entry>
+<CategoryId>0</CategoryId><Amount>19.95</Amount><Value>0</Value><Currency>3</Currency><Description><![CDATA[Featured Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>49.95</Amount><Value>1</Value><Currency>3</Currency><Description><![CDATA[HomePage Featured or New Featured Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>6.95</Amount><Value>2</Value><Currency>3</Currency><Description><![CDATA[Category Featured or Category Featured Plus Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>9.95</Amount><Value>3</Value><Currency>3</Currency><Description><![CDATA[New Category Featured Plus fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.75</Amount><Value>4</Value><Currency>3</Currency><Description><![CDATA[Bold Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>5</Value><Currency>3</Currency><Description><![CDATA[Gift Icon Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.15</Amount><Value>6</Value><Currency>3</Currency><Description><![CDATA[Gallery Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>15.95</Amount><Value>7</Value><Currency>3</Currency><Description><![CDATA[Gallery Featured Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.00</Amount><Value>8</Value><Currency>3</Currency><Description><![CDATA[Item Move Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>15.00</Amount><Value>9</Value><Currency>3</Currency><Description><![CDATA[Motor Listing fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>30.00</Amount><Value>10</Value><Currency>3</Currency><Description><![CDATA[Real Estate listing fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>15.00</Amount><Value>11</Value><Currency>3</Currency><Description><![CDATA[Motor Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>15.00</Amount><Value>19</Value><Currency>3</Currency><Description><![CDATA[Final Value Level 1 CutOff Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>600.00</Amount><Value>20</Value><Currency>3</Currency><Description><![CDATA[Final Value Level 2 CutOff Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.30</Amount><Value>21</Value><Currency>3</Currency><Description><![CDATA[Low Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>22</Value><Currency>3</Currency><Description><![CDATA[High Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>15.00</Amount><Value>23</Value><Currency>3</Currency><Description><![CDATA[High Reserve Price]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.12</Amount><Value>24</Value><Currency>3</Currency><Description><![CDATA[iPix Photo Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>25</Value><Currency>3</Currency><Description><![CDATA[iPix Slide Show fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>1.50</Amount><Value>26</Value><Currency>3</Currency><Description><![CDATA[Highlight Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>28</Value><Currency>3</Currency><Description><![CDATA[iPix SuperSize or Larger Photo Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.90</Amount><Value>31</Value><Currency>3</Currency><Description><![CDATA[iPix Picture Pack or Ultimate Pack Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>6.00</Amount><Value>32</Value><Currency>3</Currency><Description><![CDATA[ebayStores Basic Subscription Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>30.00</Amount><Value>33</Value><Currency>3</Currency><Description><![CDATA[eBayStores Featured Subscription Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>300.00</Amount><Value>34</Value><Currency>3</Currency><Description><![CDATA[eBayStores Anchor Subscription Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.05</Amount><Value>35</Value><Currency>3</Currency><Description><![CDATA[Store Fixed Price Gallery Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.50</Amount><Value>36</Value><Currency>3</Currency><Description><![CDATA[Store Fixed Price Bold Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>1.50</Amount><Value>37</Value><Currency>3</Currency><Description><![CDATA[Store Fixed Price Highlight Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>9.95</Amount><Value>38</Value><Currency>3</Currency><Description><![CDATA[Store Fixed Price Featured or Featured Search Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.05</Amount><Value>62</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days Gallery Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>1.50</Amount><Value>65</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Bold Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>4.50</Amount><Value>68</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days Highlight Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>14.95</Amount><Value>71</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days Featured Search Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.12</Amount><Value>73</Value><Currency>3</Currency><Description><![CDATA[eBayStores iPix Photo Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.12</Amount><Value>75</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days iPix Photo Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>77</Value><Currency>3</Currency><Description><![CDATA[eBayStores iPix Large Photo Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>79</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days iPix Large Photo Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>81</Value><Currency>3</Currency><Description><![CDATA[eBayStores iPix Slide Show Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.60</Amount><Value>83</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days iPix Slide Show Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.90</Amount><Value>85</Value><Currency>3</Currency><Description><![CDATA[eBayStores iPix Picture Pack Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.90</Amount><Value>87</Value><Currency>3</Currency><Description><![CDATA[eBayStores 90 Days iPix Picture Pack Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.06</Amount><Value>89</Value><Currency>3</Currency><Description><![CDATA[Buy It Now Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.07</Amount><Value>91</Value><Currency>3</Currency><Description><![CDATA[Listing Designer Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.07</Amount><Value>92</Value><Currency>3</Currency><Description><![CDATA[Store 30 Days Listing Designer Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.07</Amount><Value>94</Value><Currency>3</Currency><Description><![CDATA[Store 90 Days Listing Designer Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.07</Amount><Value>96</Value><Currency>3</Currency><Description><![CDATA[Fixed Price Listing Designer Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.00</Amount><Value>97</Value><Currency>3</Currency><Description><![CDATA[Selling Manager Subscription Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>4.99</Amount><Value>98</Value><Currency>3</Currency><Description><![CDATA[Selling Manager Pro Subscription Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><Amount>0.00</Amount><Value>101</Value><Currency>3</Currency><Description><![CDATA[Selling Manager Pro Listing Designer Fee]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>InsuranceOption</Name><Entry>
+<Value>0</Value><Description><![CDATA[Insurance not offered]]></Description></Entry>
+<Entry>
+<Value>1</Value><Description><![CDATA[Insurance optional]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Insurance required]]></Description></Entry>
+<Entry>
+<Value>3</Value><Description><![CDATA[Insurance included in Shipping and Handling costs]]></Description></Entry>
+<Entry>
+<Value>4</Value><Description><![CDATA[Shipping Insurance is not offered on this site]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>Country</Name><Entry>
+<Value>al</Value><Description><![CDATA[Albania]]></Description></Entry>
+<Entry>
+<Value>dz</Value><Description><![CDATA[Algeria]]></Description></Entry>
+<Entry>
+<Value>ag</Value><Description><![CDATA[Antigua and Barbuda]]></Description></Entry>
+<Entry>
+<Value>aw</Value><Description><![CDATA[Aruba]]></Description></Entry>
+<Entry>
+<Value>au</Value><Description><![CDATA[Australia]]></Description></Entry>
+<Entry>
+<Value>at</Value><Description><![CDATA[Austria]]></Description></Entry>
+<Entry>
+<Value>bh</Value><Description><![CDATA[Bahrain]]></Description></Entry>
+<Entry>
+<Value>be</Value><Description><![CDATA[Belgium]]></Description></Entry>
+<Entry>
+<Value>bj</Value><Description><![CDATA[Benin]]></Description></Entry>
+<Entry>
+<Value>bm</Value><Description><![CDATA[Bermuda]]></Description></Entry>
+<Entry>
+<Value>ba</Value><Description><![CDATA[Bosnia and Herzegovina]]></Description></Entry>
+<Entry>
+<Value>bw</Value><Description><![CDATA[Botswana]]></Description></Entry>
+<Entry>
+<Value>bg</Value><Description><![CDATA[Bulgaria]]></Description></Entry>
+<Entry>
+<Value>bf</Value><Description><![CDATA[Burkina Faso]]></Description></Entry>
+<Entry>
+<Value>mm</Value><Description><![CDATA[Burma]]></Description></Entry>
+<Entry>
+<Value>bi</Value><Description><![CDATA[Burundi]]></Description></Entry>
+<Entry>
+<Value>cm</Value><Description><![CDATA[Cameroon]]></Description></Entry>
+<Entry>
+<Value>ky</Value><Description><![CDATA[Cayman Islands]]></Description></Entry>
+<Entry>
+<Value>cl</Value><Description><![CDATA[Chile]]></Description></Entry>
+<Entry>
+<Value>km</Value><Description><![CDATA[Comoros]]></Description></Entry>
+<Entry>
+<Value>cg</Value><Description><![CDATA[Congo, Republic of the]]></Description></Entry>
+<Entry>
+<Value>ck</Value><Description><![CDATA[Cook Islands]]></Description></Entry>
+<Entry>
+<Value>ci</Value><Description><![CDATA[Cote d Ivoire (Ivory Coast)]]></Description></Entry>
+<Entry>
+<Value>hr</Value><Description><![CDATA[Croatia, Democratic Republic of the]]></Description></Entry>
+<Entry>
+<Value>cz</Value><Description><![CDATA[Czech Republic]]></Description></Entry>
+<Entry>
+<Value>dj</Value><Description><![CDATA[Djibouti]]></Description></Entry>
+<Entry>
+<Value>dm</Value><Description><![CDATA[Dominica]]></Description></Entry>
+<Entry>
+<Value>gq</Value><Description><![CDATA[Equatorial Guinea]]></Description></Entry>
+<Entry>
+<Value>ee</Value><Description><![CDATA[Estonia]]></Description></Entry>
+<Entry>
+<Value>et</Value><Description><![CDATA[Ethiopia]]></Description></Entry>
+<Entry>
+<Value>fr</Value><Description><![CDATA[France]]></Description></Entry>
+<Entry>
+<Value>gf</Value><Description><![CDATA[French Guiana]]></Description></Entry>
+<Entry>
+<Value>gm</Value><Description><![CDATA[Gambia]]></Description></Entry>
+<Entry>
+<Value>ge</Value><Description><![CDATA[Georgia]]></Description></Entry>
+<Entry>
+<Value>de</Value><Description><![CDATA[Germany]]></Description></Entry>
+<Entry>
+<Value>gr</Value><Description><![CDATA[Greece]]></Description></Entry>
+<Entry>
+<Value>gl</Value><Description><![CDATA[Greenland]]></Description></Entry>
+<Entry>
+<Value>qm</Value><Description><![CDATA[Guernsey]]></Description></Entry>
+<Entry>
+<Value>gn</Value><Description><![CDATA[Guinea]]></Description></Entry>
+<Entry>
+<Value>ht</Value><Description><![CDATA[Haiti]]></Description></Entry>
+<Entry>
+<Value>hn</Value><Description><![CDATA[Honduras]]></Description></Entry>
+<Entry>
+<Value>is</Value><Description><![CDATA[Iceland]]></Description></Entry>
+<Entry>
+<Value>in</Value><Description><![CDATA[India]]></Description></Entry>
+<Entry>
+<Value>id</Value><Description><![CDATA[Indonesia]]></Description></Entry>
+<Entry>
+<Value>il</Value><Description><![CDATA[Israel]]></Description></Entry>
+<Entry>
+<Value>qn</Value><Description><![CDATA[Jan Mayen]]></Description></Entry>
+<Entry>
+<Value>jo</Value><Description><![CDATA[Jordan]]></Description></Entry>
+<Entry>
+<Value>kz</Value><Description><![CDATA[Kazakhstan]]></Description></Entry>
+<Entry>
+<Value>ki</Value><Description><![CDATA[Kiribati]]></Description></Entry>
+<Entry>
+<Value>kp</Value><Description><![CDATA[Korea, North]]></Description></Entry>
+<Entry>
+<Value>kw</Value><Description><![CDATA[Kuwait]]></Description></Entry>
+<Entry>
+<Value>ls</Value><Description><![CDATA[Lesotho]]></Description></Entry>
+<Entry>
+<Value>ly</Value><Description><![CDATA[Libya]]></Description></Entry>
+<Entry>
+<Value>li</Value><Description><![CDATA[Liechtenstein]]></Description></Entry>
+<Entry>
+<Value>lt</Value><Description><![CDATA[Lithuania]]></Description></Entry>
+<Entry>
+<Value>mo</Value><Description><![CDATA[Macau]]></Description></Entry>
+<Entry>
+<Value>mg</Value><Description><![CDATA[Madagascar]]></Description></Entry>
+<Entry>
+<Value>ml</Value><Description><![CDATA[Mali]]></Description></Entry>
+<Entry>
+<Value>mh</Value><Description><![CDATA[Marshall Islands]]></Description></Entry>
+<Entry>
+<Value>mu</Value><Description><![CDATA[Mauritius]]></Description></Entry>
+<Entry>
+<Value>yt</Value><Description><![CDATA[Mayotte]]></Description></Entry>
+<Entry>
+<Value>mn</Value><Description><![CDATA[Mongolia]]></Description></Entry>
+<Entry>
+<Value>ma</Value><Description><![CDATA[Morocco]]></Description></Entry>
+<Entry>
+<Value>mz</Value><Description><![CDATA[Mozambique]]></Description></Entry>
+<Entry>
+<Value>nr</Value><Description><![CDATA[Nauru]]></Description></Entry>
+<Entry>
+<Value>an</Value><Description><![CDATA[Netherlands Antilles]]></Description></Entry>
+<Entry>
+<Value>nc</Value><Description><![CDATA[New Caledonia]]></Description></Entry>
+<Entry>
+<Value>ne</Value><Description><![CDATA[Niger]]></Description></Entry>
+<Entry>
+<Value>pk</Value><Description><![CDATA[Pakistan]]></Description></Entry>
+<Entry>
+<Value>pg</Value><Description><![CDATA[Papua New Guinea]]></Description></Entry>
+<Entry>
+<Value>py</Value><Description><![CDATA[Paraguay]]></Description></Entry>
+<Entry>
+<Value>pe</Value><Description><![CDATA[Peru]]></Description></Entry>
+<Entry>
+<Value>pr</Value><Description><![CDATA[Puerto Rico]]></Description></Entry>
+<Entry>
+<Value>qa</Value><Description><![CDATA[Qatar]]></Description></Entry>
+<Entry>
+<Value>sh</Value><Description><![CDATA[Saint Helena]]></Description></Entry>
+<Entry>
+<Value>kn</Value><Description><![CDATA[Saint Kitts-Nevis]]></Description></Entry>
+<Entry>
+<Value>sc</Value><Description><![CDATA[Seychelles]]></Description></Entry>
+<Entry>
+<Value>sl</Value><Description><![CDATA[Sierra Leone]]></Description></Entry>
+<Entry>
+<Value>sb</Value><Description><![CDATA[Solomon Islands]]></Description></Entry>
+<Entry>
+<Value>so</Value><Description><![CDATA[Somalia]]></Description></Entry>
+<Entry>
+<Value>es</Value><Description><![CDATA[Spain]]></Description></Entry>
+<Entry>
+<Value>sd</Value><Description><![CDATA[Sudan]]></Description></Entry>
+<Entry>
+<Value>sr</Value><Description><![CDATA[Suriname]]></Description></Entry>
+<Entry>
+<Value>se</Value><Description><![CDATA[Sweden]]></Description></Entry>
+<Entry>
+<Value>sy</Value><Description><![CDATA[Syria]]></Description></Entry>
+<Entry>
+<Value>tj</Value><Description><![CDATA[Tajikistan]]></Description></Entry>
+<Entry>
+<Value>tz</Value><Description><![CDATA[Tanzania]]></Description></Entry>
+<Entry>
+<Value>tt</Value><Description><![CDATA[Trinidad and Tobago]]></Description></Entry>
+<Entry>
+<Value>ug</Value><Description><![CDATA[Uganda]]></Description></Entry>
+<Entry>
+<Value>ua</Value><Description><![CDATA[Ukraine]]></Description></Entry>
+<Entry>
+<Value>ae</Value><Description><![CDATA[United Arab Emirates]]></Description></Entry>
+<Entry>
+<Value>uk</Value><Description><![CDATA[United Kingdom]]></Description></Entry>
+<Entry>
+<Value>uy</Value><Description><![CDATA[Uruguay]]></Description></Entry>
+<Entry>
+<Value>vu</Value><Description><![CDATA[Vanuatu]]></Description></Entry>
+<Entry>
+<Value>va</Value><Description><![CDATA[Vatican City State]]></Description></Entry>
+<Entry>
+<Value>ve</Value><Description><![CDATA[Venezuela]]></Description></Entry>
+<Entry>
+<Value>vn</Value><Description><![CDATA[Vietnam]]></Description></Entry>
+<Entry>
+<Value>vi</Value><Description><![CDATA[Virgin Islands (U.S.)]]></Description></Entry>
+<Entry>
+<Value>eh</Value><Description><![CDATA[Western Sahara]]></Description></Entry>
+<Entry>
+<Value>ws</Value><Description><![CDATA[Western Samoa]]></Description></Entry>
+<Entry>
+<Value>ye</Value><Description><![CDATA[Yemen]]></Description></Entry>
+<Entry>
+<Value>yu</Value><Description><![CDATA[Yugoslavia]]></Description></Entry>
+<Entry>
+<Value>zw</Value><Description><![CDATA[Zimbabwe]]></Description></Entry>
+<Entry>
+<Value>ao</Value><Description><![CDATA[Angola]]></Description></Entry>
+<Entry>
+<Value>aa</Value><Description><![CDATA[APO/FPO]]></Description></Entry>
+<Entry>
+<Value>jp</Value><Description><![CDATA[Japan]]></Description></Entry>
+<Entry>
+<Value>re</Value><Description><![CDATA[Réunion]]></Description></Entry>
+<Entry>
+<Value>mi</Value><Description><![CDATA[Micronesia]]></Description></Entry>
+<Entry>
+<Value>ad</Value><Description><![CDATA[Andorra]]></Description></Entry>
+<Entry>
+<Value>am</Value><Description><![CDATA[Armenia]]></Description></Entry>
+<Entry>
+<Value>bs</Value><Description><![CDATA[Bahamas]]></Description></Entry>
+<Entry>
+<Value>by</Value><Description><![CDATA[Belarus]]></Description></Entry>
+<Entry>
+<Value>bt</Value><Description><![CDATA[Bhutan]]></Description></Entry>
+<Entry>
+<Value>vg</Value><Description><![CDATA[British Virgin Islands]]></Description></Entry>
+<Entry>
+<Value>kh</Value><Description><![CDATA[Cambodia]]></Description></Entry>
+<Entry>
+<Value>cf</Value><Description><![CDATA[Central African Republic]]></Description></Entry>
+<Entry>
+<Value>zr</Value><Description><![CDATA[Congo, Democratic Republic of the]]></Description></Entry>
+<Entry>
+<Value>cy</Value><Description><![CDATA[Cyprus]]></Description></Entry>
+<Entry>
+<Value>do</Value><Description><![CDATA[Dominican Republic]]></Description></Entry>
+<Entry>
+<Value>er</Value><Description><![CDATA[Eritrea]]></Description></Entry>
+<Entry>
+<Value>fj</Value><Description><![CDATA[Fiji]]></Description></Entry>
+<Entry>
+<Value>ga</Value><Description><![CDATA[Gabon Republic]]></Description></Entry>
+<Entry>
+<Value>gi</Value><Description><![CDATA[Gibraltar]]></Description></Entry>
+<Entry>
+<Value>gu</Value><Description><![CDATA[Guam]]></Description></Entry>
+<Entry>
+<Value>gw</Value><Description><![CDATA[Guinea-Bissau]]></Description></Entry>
+<Entry>
+<Value>hu</Value><Description><![CDATA[Hungary]]></Description></Entry>
+<Entry>
+<Value>ir</Value><Description><![CDATA[Iran]]></Description></Entry>
+<Entry>
+<Value>ke</Value><Description><![CDATA[Kenya Coast Republic]]></Description></Entry>
+<Entry>
+<Value>la</Value><Description><![CDATA[Laos]]></Description></Entry>
+<Entry>
+<Value>lr</Value><Description><![CDATA[Liberia]]></Description></Entry>
+<Entry>
+<Value>lu</Value><Description><![CDATA[Luxembourg]]></Description></Entry>
+<Entry>
+<Value>my</Value><Description><![CDATA[Malaysia]]></Description></Entry>
+<Entry>
+<Value>mq</Value><Description><![CDATA[Martinique]]></Description></Entry>
+<Entry>
+<Value>mx</Value><Description><![CDATA[Mexico]]></Description></Entry>
+<Entry>
+<Value>ms</Value><Description><![CDATA[Montserrat]]></Description></Entry>
+<Entry>
+<Value>np</Value><Description><![CDATA[Nepal]]></Description></Entry>
+<Entry>
+<Value>nz</Value><Description><![CDATA[New Zealand]]></Description></Entry>
+<Entry>
+<Value>no</Value><Description><![CDATA[Norway]]></Description></Entry>
+<Entry>
+<Value>ph</Value><Description><![CDATA[Philippines]]></Description></Entry>
+<Entry>
+<Value>ro</Value><Description><![CDATA[Romania]]></Description></Entry>
+<Entry>
+<Value>lc</Value><Description><![CDATA[Saint Lucia]]></Description></Entry>
+<Entry>
+<Value>sn</Value><Description><![CDATA[Senegal]]></Description></Entry>
+<Entry>
+<Value>sk</Value><Description><![CDATA[Slovakia]]></Description></Entry>
+<Entry>
+<Value>za</Value><Description><![CDATA[South Africa]]></Description></Entry>
+<Entry>
+<Value>sj</Value><Description><![CDATA[Svalbard]]></Description></Entry>
+<Entry>
+<Value>qp</Value><Description><![CDATA[Tahiti]]></Description></Entry>
+<Entry>
+<Value>tg</Value><Description><![CDATA[Togo]]></Description></Entry>
+<Entry>
+<Value>tv</Value><Description><![CDATA[Tuvalu]]></Description></Entry>
+<Entry>
+<Value>af</Value><Description><![CDATA[Afghanistan]]></Description></Entry>
+<Entry>
+<Value>az</Value><Description><![CDATA[Azerbaijan Republic]]></Description></Entry>
+<Entry>
+<Value>bn</Value><Description><![CDATA[Brunei Darussalam]]></Description></Entry>
+<Entry>
+<Value>co</Value><Description><![CDATA[Colombia]]></Description></Entry>
+<Entry>
+<Value>dk</Value><Description><![CDATA[Denmark]]></Description></Entry>
+<Entry>
+<Value>fi</Value><Description><![CDATA[Finland]]></Description></Entry>
+<Entry>
+<Value>gd</Value><Description><![CDATA[Grenada]]></Description></Entry>
+<Entry>
+<Value>hk</Value><Description><![CDATA[Hong Kong]]></Description></Entry>
+<Entry>
+<Value>qo</Value><Description><![CDATA[Jersey]]></Description></Entry>
+<Entry>
+<Value>lv</Value><Description><![CDATA[Latvia]]></Description></Entry>
+<Entry>
+<Value>mw</Value><Description><![CDATA[Malawi]]></Description></Entry>
+<Entry>
+<Value>mc</Value><Description><![CDATA[Monaco]]></Description></Entry>
+<Entry>
+<Value>ni</Value><Description><![CDATA[Nicaragua]]></Description></Entry>
+<Entry>
+<Value>pm</Value><Description><![CDATA[Saint Pierre and Miquelon]]></Description></Entry>
+<Entry>
+<Value>sz</Value><Description><![CDATA[Swaziland]]></Description></Entry>
+<Entry>
+<Value>tr</Value><Description><![CDATA[Turkey]]></Description></Entry>
+<Entry>
+<Value>ai</Value><Description><![CDATA[Anguilla]]></Description></Entry>
+<Entry>
+<Value>bo</Value><Description><![CDATA[Bolivia]]></Description></Entry>
+<Entry>
+<Value>cn</Value><Description><![CDATA[China]]></Description></Entry>
+<Entry>
+<Value>eg</Value><Description><![CDATA[Egypt]]></Description></Entry>
+<Entry>
+<Value>gh</Value><Description><![CDATA[Ghana]]></Description></Entry>
+<Entry>
+<Value>iq</Value><Description><![CDATA[Iraq]]></Description></Entry>
+<Entry>
+<Value>lb</Value><Description><![CDATA[Lebanon, South]]></Description></Entry>
+<Entry>
+<Value>md</Value><Description><![CDATA[Moldova]]></Description></Entry>
+<Entry>
+<Value>sm</Value><Description><![CDATA[San Marino]]></Description></Entry>
+<Entry>
+<Value>tw</Value><Description><![CDATA[Taiwan]]></Description></Entry>
+<Entry>
+<Value>om</Value><Description><![CDATA[Oman]]></Description></Entry>
+<Entry>
+<Value>ru</Value><Description><![CDATA[Russian Federation]]></Description></Entry>
+<Entry>
+<Value>to</Value><Description><![CDATA[Tonga]]></Description></Entry>
+<Entry>
+<Value>sg</Value><Description><![CDATA[Singapore]]></Description></Entry>
+<Entry>
+<Value>ar</Value><Description><![CDATA[Argentina]]></Description></Entry>
+<Entry>
+<Value>td</Value><Description><![CDATA[Chad]]></Description></Entry>
+<Entry>
+<Value>pf</Value><Description><![CDATA[French Polynesia]]></Description></Entry>
+<Entry>
+<Value>kg</Value><Description><![CDATA[Kyrgyzstan]]></Description></Entry>
+<Entry>
+<Value>nu</Value><Description><![CDATA[Niue]]></Description></Entry>
+<Entry>
+<Value>si</Value><Description><![CDATA[Slovenia]]></Description></Entry>
+<Entry>
+<Value>bz</Value><Description><![CDATA[Belize]]></Description></Entry>
+<Entry>
+<Value>sv</Value><Description><![CDATA[El Salvador]]></Description></Entry>
+<Entry>
+<Value>gt</Value><Description><![CDATA[Guatemala]]></Description></Entry>
+<Entry>
+<Value>it</Value><Description><![CDATA[Italy]]></Description></Entry>
+<Entry>
+<Value>mv</Value><Description><![CDATA[Maldives]]></Description></Entry>
+<Entry>
+<Value>nl</Value><Description><![CDATA[Netherlands]]></Description></Entry>
+<Entry>
+<Value>th</Value><Description><![CDATA[Thailand]]></Description></Entry>
+<Entry>
+<Value>as</Value><Description><![CDATA[American Samoa]]></Description></Entry>
+<Entry>
+<Value>bd</Value><Description><![CDATA[Bangladesh]]></Description></Entry>
+<Entry>
+<Value>br</Value><Description><![CDATA[Brazil]]></Description></Entry>
+<Entry>
+<Value>cv</Value><Description><![CDATA[Cape Verde Islands]]></Description></Entry>
+<Entry>
+<Value>cr</Value><Description><![CDATA[Costa Rica]]></Description></Entry>
+<Entry>
+<Value>ec</Value><Description><![CDATA[Ecuador]]></Description></Entry>
+<Entry>
+<Value>fk</Value><Description><![CDATA[Falkland Islands (Islas Makvinas)]]></Description></Entry>
+<Entry>
+<Value>gy</Value><Description><![CDATA[Guyana]]></Description></Entry>
+<Entry>
+<Value>ie</Value><Description><![CDATA[Ireland]]></Description></Entry>
+<Entry>
+<Value>kr</Value><Description><![CDATA[Korea, South]]></Description></Entry>
+<Entry>
+<Value>mk</Value><Description><![CDATA[Macedonia]]></Description></Entry>
+<Entry>
+<Value>mr</Value><Description><![CDATA[Mauritania]]></Description></Entry>
+<Entry>
+<Value>na</Value><Description><![CDATA[Namibia]]></Description></Entry>
+<Entry>
+<Value>ng</Value><Description><![CDATA[Nigeria]]></Description></Entry>
+<Entry>
+<Value>pl</Value><Description><![CDATA[Poland]]></Description></Entry>
+<Entry>
+<Value>pt</Value><Description><![CDATA[Portugal]]></Description></Entry>
+<Entry>
+<Value>vc</Value><Description><![CDATA[Saint Vincent and the Grenadines]]></Description></Entry>
+<Entry>
+<Value>sa</Value><Description><![CDATA[Saudi Arabia]]></Description></Entry>
+<Entry>
+<Value>lk</Value><Description><![CDATA[Sri Lanka]]></Description></Entry>
+<Entry>
+<Value>ch</Value><Description><![CDATA[Switzerland]]></Description></Entry>
+<Entry>
+<Value>tn</Value><Description><![CDATA[Tunisia]]></Description></Entry>
+<Entry>
+<Value>tc</Value><Description><![CDATA[Turks and Caicos Islands]]></Description></Entry>
+<Entry>
+<Value>uz</Value><Description><![CDATA[Uzbekistan]]></Description></Entry>
+<Entry>
+<Value>wf</Value><Description><![CDATA[Wallis and Futuna]]></Description></Entry>
+<Entry>
+<Value>zm</Value><Description><![CDATA[Zambia]]></Description></Entry>
+<Entry>
+<Value>bb</Value><Description><![CDATA[Barbados]]></Description></Entry>
+<Entry>
+<Value>ca</Value><Description><![CDATA[Canada]]></Description></Entry>
+<Entry>
+<Value>cu</Value><Description><![CDATA[Cuba]]></Description></Entry>
+<Entry>
+<Value>gp</Value><Description><![CDATA[Guadeloupe]]></Description></Entry>
+<Entry>
+<Value>jm</Value><Description><![CDATA[Jamaica]]></Description></Entry>
+<Entry>
+<Value>mt</Value><Description><![CDATA[Malta]]></Description></Entry>
+<Entry>
+<Value>pa</Value><Description><![CDATA[Panama]]></Description></Entry>
+<Entry>
+<Value>rw</Value><Description><![CDATA[Rwanda]]></Description></Entry>
+<Entry>
+<Value>tm</Value><Description><![CDATA[Turkmenistan]]></Description></Entry>
+<Entry>
+<Value>us</Value><Description><![CDATA[United States]]></Description></Entry>
+<Entry>
+<Value>pw</Value><Description><![CDATA[Palau]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>Currency</Name><Entry>
+<Value>1</Value><Code>USD</Code><Description><![CDATA[US Dollar]]></Description></Entry>
+<Entry>
+<Value>2</Value><Code>CAD</Code><Description><![CDATA[Canadian Dollar]]></Description></Entry>
+<Entry>
+<Value>3</Value><Code>GBP</Code><Description><![CDATA[British Pound]]></Description></Entry>
+<Entry>
+<Value>4</Value><Code>DEM</Code><Description><![CDATA[German Mark]]></Description></Entry>
+<Entry>
+<Value>5</Value><Code>AUD</Code><Description><![CDATA[Australian Dollar]]></Description></Entry>
+<Entry>
+<Value>7</Value><Code>EUR</Code><Description><![CDATA[Euro]]></Description></Entry>
+<Entry>
+<Value>8</Value><Code>FRF</Code><Description><![CDATA[French Francs]]></Description></Entry>
+<Entry>
+<Value>13</Value><Code>CHF</Code><Description><![CDATA[Swiss Franc]]></Description></Entry>
+<Entry>
+<Value>14</Value><Code>CNY</Code><Description><![CDATA[Chinese Renminbi]]></Description></Entry>
+<Entry>
+<Value>22</Value><Code>HKD</Code><Description><![CDATA[Hong Kong Dollar]]></Description></Entry>
+<Entry>
+<Value>31</Value><Code>NLG</Code><Description><![CDATA[Dutch Guilder]]></Description></Entry>
+<Entry>
+<Value>34</Value><Code>PHP</Code><Description><![CDATA[Philippines Peso]]></Description></Entry>
+<Entry>
+<Value>35</Value><Code>PLZ</Code><Description><![CDATA[Polish Zloty]]></Description></Entry>
+<Entry>
+<Value>38</Value><Code>SEK</Code><Description><![CDATA[Sweden Krona]]></Description></Entry>
+<Entry>
+<Value>39</Value><Code>SGD</Code><Description><![CDATA[Singapore Dollar]]></Description></Entry>
+<Entry>
+<Value>41</Value><Code>TWD</Code><Description><![CDATA[Taiwanese Dollar]]></Description></Entry>
+<Entry>
+<Value>44</Value><Code>INR</Code><Description><![CDATA[Indian Rupees]]></Description></Entry>
+<Entry>
+<Value>46</Value><Code>MYR</Code><Description><![CDATA[Malaysian Ringgit]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>FeedbackType</Name><Entry>
+<Value>Positive</Value><Description><![CDATA[Positive]]></Description></Entry>
+<Entry>
+<Value>Negative</Value><Description><![CDATA[Negative]]></Description></Entry>
+<Entry>
+<Value>Neutral</Value><Description><![CDATA[Neutral]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>ListingFeature</Name><Entry>
+<Value>2</Value><Description><![CDATA[HighLight]]></Description></Entry>
+<Entry>
+<Value>9</Value><Description><![CDATA[Featured]]></Description></Entry>
+<Entry>
+<Value>10</Value><Description><![CDATA[Super Featured]]></Description></Entry>
+<Entry>
+<Value>11</Value><Description><![CDATA[Bold Title]]></Description></Entry>
+<Entry>
+<Value>12</Value><Description><![CDATA[Buy It Now]]></Description></Entry>
+<Entry>
+<Value>13</Value><Description><![CDATA[10 Day Listing]]></Description></Entry>
+<Entry>
+<Value>14</Value><Description><![CDATA[Border]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>PhotoDisplayType</Name><Entry>
+<Value>0</Value><Description><![CDATA[Standard Show]]></Description></Entry>
+<Entry>
+<Value>1</Value><Description><![CDATA[Slide Show]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Large Photo Show]]></Description></Entry>
+<Entry>
+<Value>3</Value><Description><![CDATA[Picture Pack]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>ShippingType</Name><Entry>
+<Value>1</Value><Description><![CDATA[Flat Rate]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Calculated Rate]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>ShipToLocation</Name><Entry>
+<Value>Worldwide</Value><Description><![CDATA[Worldwide]]></Description></Entry>
+<Entry>
+<Value>Americas</Value><Description><![CDATA[N. and S. America]]></Description></Entry>
+<Entry>
+<Value>Europe</Value><Description><![CDATA[Europe]]></Description></Entry>
+<Entry>
+<Value>Asia</Value><Description><![CDATA[Asia]]></Description></Entry>
+<Entry>
+<Value>US</Value><Description><![CDATA[United States]]></Description></Entry>
+<Entry>
+<Value>IE</Value><Description><![CDATA[Ireland]]></Description></Entry>
+<Entry>
+<Value>AU</Value><Description><![CDATA[Australia]]></Description></Entry>
+<Entry>
+<Value>CA</Value><Description><![CDATA[Canada]]></Description></Entry>
+<Entry>
+<Value>FR</Value><Description><![CDATA[France]]></Description></Entry>
+<Entry>
+<Value>JP</Value><Description><![CDATA[Japan]]></Description></Entry>
+<Entry>
+<Value>DE</Value><Description><![CDATA[Germany]]></Description></Entry>
+<Entry>
+<Value>None</Value><Description><![CDATA[None]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>Url</Name><Entry>
+<Value>ViewItemUrl</Value><Description><![CDATA[http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=]]></Description></Entry>
+<Entry>
+<Value>ViewUserUrl</Value><Description><![CDATA[http://cgi2.ebay.co.uk/aw-cgi/eBayISAPI.dll?ViewFeedback&userid=]]></Description></Entry>
+<Entry>
+<Value>MyeBayUrl</Value><Description><![CDATA[http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayLogin]]></Description></Entry>
+<Entry>
+<Value>MyeBayBiddingUrl</Value><Description><![CDATA[http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayItemsBiddingOn#BidOn]]></Description></Entry>
+<Entry>
+<Value>MyeBayNotWinUrl</Value><Description><![CDATA[http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayItemsBiddingOn#lost]]></Description></Entry>
+<Entry>
+<Value>MyeBayWonUrl</Value><Description><![CDATA[http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayItemsBiddingOn#won]]></Description></Entry>
+<Entry>
+<Value>MyeBayWatchingUrl</Value><Description><![CDATA[http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayItemsBiddingOn#watching]]></Description></Entry>
+<Entry>
+<Value>eBayStoreUrl</Value><Description><![CDATA[http://www.stores.ebay.co.uk/]]></Description></Entry>
+<Entry>
+<Value>SmallLogoUrl</Value><Description><![CDATA[https://scgi.ebay.com/saw/pics/uk/api/ebay_market_108x44.gif]]></Description></Entry>
+<Entry>
+<Value>MediumLogoUrl</Value><Description><![CDATA[https://scgi.ebay.com/saw/pics/uk/api/ebay_market_144x60.gif]]></Description></Entry>
+<Entry>
+<Value>LargeLogoUrl</Value><Description><![CDATA[https://scgi.ebay.com/saw/pics/uk/api/ebay_market_182x79.gif]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>SellerLevel</Name><Entry>
+<Value>33</Value><Description><![CDATA[Gold]]></Description></Entry>
+<Entry>
+<Value>66</Value><Description><![CDATA[Platinum]]></Description></Entry>
+<Entry>
+<Value>77</Value><Description><![CDATA[Titanium]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>ShippingService</Name><Entry>
+<Value>310</Value><Description><![CDATA[Seller's Standard Rate]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>301</Value><Description><![CDATA[Royal Mail 1st Class Standard]]></Description><ExpeditedService>0</ExpeditedService>
+<ShippingTimeMin>1</ShippingTimeMin>
+<ShippingTimeMax>2</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>302</Value><Description><![CDATA[Royal Mail 2nd Class Standard]]></Description><ExpeditedService>0</ExpeditedService>
+<ShippingTimeMin>1</ShippingTimeMin>
+<ShippingTimeMax>3</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>303</Value><Description><![CDATA[Royal Mail 1st Class Recorded]]></Description><ExpeditedService>0</ExpeditedService>
+<ShippingTimeMin>1</ShippingTimeMin>
+<ShippingTimeMax>2</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>304</Value><Description><![CDATA[Royal Mail 2nd Class Recorded]]></Description><ExpeditedService>0</ExpeditedService>
+<ShippingTimeMin>1</ShippingTimeMin>
+<ShippingTimeMax>3</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>305</Value><Description><![CDATA[Royal Mail Special Delivery]]></Description><ExpeditedService>1</ExpeditedService>
+<ShippingTimeMin>0</ShippingTimeMin>
+<ShippingTimeMax>1</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>306</Value><Description><![CDATA[Royal Mail Standard Parcels]]></Description><ExpeditedService>0</ExpeditedService>
+<ShippingTimeMin>3</ShippingTimeMin>
+<ShippingTimeMax>5</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>307</Value><Description><![CDATA[Parcelforce 24]]></Description><ExpeditedService>1</ExpeditedService>
+<ShippingTimeMin>0</ShippingTimeMin>
+<ShippingTimeMax>1</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>308</Value><Description><![CDATA[Parcelforce 48]]></Description><ExpeditedService>1</ExpeditedService>
+<ShippingTimeMin>0</ShippingTimeMin>
+<ShippingTimeMax>2</ShippingTimeMax>
+</Entry>
+<Entry>
+<Value>309</Value><Description><![CDATA[Other Courier]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>311</Value><Description><![CDATA[Collection in Person]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50301</Value><Description><![CDATA[Sellers Standard International Rate]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50302</Value><Description><![CDATA[Royal Mail Airmail]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50303</Value><Description><![CDATA[Royal Mail Airsure]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50304</Value><Description><![CDATA[Royal Mail Surface Mail]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50305</Value><Description><![CDATA[Royal Mail International Signed-for]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50306</Value><Description><![CDATA[Royal Mail HM Forces Mail]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50307</Value><Description><![CDATA[Parcelforce International Datapost]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50308</Value><Description><![CDATA[Parcelforce Ireland 24]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50309</Value><Description><![CDATA[Parcelforce Euro 48]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50310</Value><Description><![CDATA[Parcelforce International Scheduled]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50311</Value><Description><![CDATA[Other courier or delivery service]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+<Entry>
+<Value>50312</Value><Description><![CDATA[Collect in person]]></Description><ExpeditedService>0</ExpeditedService>
+</Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>SiteId</Name><Entry>
+<Value>0</Value><Description><![CDATA[US]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Canada]]></Description></Entry>
+<Entry>
+<Value>3</Value><Description><![CDATA[United Kingdom]]></Description></Entry>
+<Entry>
+<Value>77</Value><Description><![CDATA[Germany]]></Description></Entry>
+<Entry>
+<Value>15</Value><Description><![CDATA[Australia]]></Description></Entry>
+<Entry>
+<Value>71</Value><Description><![CDATA[France]]></Description></Entry>
+<Entry>
+<Value>100</Value><Description><![CDATA[Motors]]></Description></Entry>
+<Entry>
+<Value>101</Value><Description><![CDATA[Italy]]></Description></Entry>
+<Entry>
+<Value>16</Value><Description><![CDATA[Austria]]></Description></Entry>
+<Entry>
+<Value>193</Value><Description><![CDATA[Switzerland]]></Description></Entry>
+<Entry>
+<Value>146</Value><Description><![CDATA[Netherlands]]></Description></Entry>
+<Entry>
+<Value>186</Value><Description><![CDATA[Spain]]></Description></Entry>
+<Entry>
+<Value>23</Value><Description><![CDATA[Belgium (French)]]></Description></Entry>
+<Entry>
+<Value>123</Value><Description><![CDATA[Belgium (Dutch)]]></Description></Entry>
+<Entry>
+<Value>196</Value><Description><![CDATA[Taiwan]]></Description></Entry>
+<Entry>
+<Value>223</Value><Description><![CDATA[China]]></Description></Entry>
+<Entry>
+<Value>203</Value><Description><![CDATA[India]]></Description></Entry>
+<Entry>
+<Value>201</Value><Description><![CDATA[Hong Kong]]></Description></Entry>
+<Entry>
+<Value>207</Value><Description><![CDATA[Malaysia]]></Description></Entry>
+<Entry>
+<Value>211</Value><Description><![CDATA[Philippines]]></Description></Entry>
+<Entry>
+<Value>212</Value><Description><![CDATA[Poland]]></Description></Entry>
+<Entry>
+<Value>216</Value><Description><![CDATA[Singapore]]></Description></Entry>
+<Entry>
+<Value>218</Value><Description><![CDATA[Sweden]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>ShippingPackage</Name><Entry>
+<Value>0</Value><Description><![CDATA[None]]></Description></Entry>
+<Entry>
+<Value>1</Value><Description><![CDATA[Letter]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Large Envelope]]></Description></Entry>
+<Entry>
+<Value>3</Value><Description><![CDATA[USPS Flat Rate Envelope]]></Description></Entry>
+<Entry>
+<Value>4</Value><Description><![CDATA[Package/Thick Envelope]]></Description></Entry>
+<Entry>
+<Value>6</Value><Description><![CDATA[Very Large Package/Oversize 2]]></Description></Entry>
+<Entry>
+<Value>7</Value><Description><![CDATA[UPS Letter]]></Description></Entry>
+<Entry>
+<Value>8</Value><Description><![CDATA[Roll]]></Description></Entry>
+<Entry>
+<Value>9</Value><Description><![CDATA[Europallet]]></Description></Entry>
+<Entry>
+<Value>10</Value><Description><![CDATA[One-way pallet]]></Description></Entry>
+<Entry>
+<Value>11</Value><Description><![CDATA[Bulky goods]]></Description></Entry>
+<Entry>
+<Value>12</Value><Description><![CDATA[Furniture]]></Description></Entry>
+<Entry>
+<Value>13</Value><Description><![CDATA[Cars]]></Description></Entry>
+<Entry>
+<Value>14</Value><Description><![CDATA[Motorbikes]]></Description></Entry>
+<Entry>
+<Value>15</Value><Description><![CDATA[Caravan]]></Description></Entry>
+<Entry>
+<Value>16</Value><Description><![CDATA[Industry vehicles]]></Description></Entry>
+<Entry>
+<Value>17</Value><Description><![CDATA[Extra Large Package/Oversize 3]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>3</Type><Name>RangeFees</Name><Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.15</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>1</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>1</RangeFrom><Amount>0.20</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>5</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>5</RangeFrom><Amount>0.35</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>15</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>15</RangeFrom><Amount>0.75</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>30</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>30</RangeFrom><Amount>1.50</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>100</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>100</RangeFrom><Amount>2.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>5.25</PercentAmount><Value>2</Value><RangeTo>30</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>30</RangeFrom><Amount>0.00</Amount><PercentAmount>3.25</PercentAmount><Value>2</Value><RangeTo>600</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>600</RangeFrom><Amount>0.00</Amount><PercentAmount>1.75</PercentAmount><Value>2</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.05</Amount><PercentAmount>0.0</PercentAmount><Value>4</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>5.25</PercentAmount><Value>5</Value><RangeTo>30</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>30</RangeFrom><Amount>0.00</Amount><PercentAmount>3.25</PercentAmount><Value>5</Value><RangeTo>600</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>600</RangeFrom><Amount>0.00</Amount><PercentAmount>1.75</PercentAmount><Value>5</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.05</Amount><PercentAmount>0.0</PercentAmount><Value>6</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price 60 Days Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.10</Amount><PercentAmount>0.0</PercentAmount><Value>7</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price 90 Days Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.15</Amount><PercentAmount>0.0</PercentAmount><Value>8</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Store Fixed Price 120 Days Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>1.00</Amount><PercentAmount>0.0</PercentAmount><Value>9</Value><RangeTo>50</RangeTo><Currency>3</Currency><Description><![CDATA[Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>50</RangeFrom><Amount>0.00</Amount><PercentAmount>2.0</PercentAmount><Value>9</Value><RangeTo>5000</RangeTo><Currency>3</Currency><Description><![CDATA[Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>5000</RangeFrom><Amount>100.00</Amount><PercentAmount>0.0</PercentAmount><Value>9</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.12</Amount><PercentAmount>0.0</PercentAmount><Value>13</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.15</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>1</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>1</RangeFrom><Amount>0.20</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>5</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>5</RangeFrom><Amount>0.35</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>15</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>15</RangeFrom><Amount>0.75</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>30</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>30</RangeFrom><Amount>1.50</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>100</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>100</RangeFrom><Amount>2.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>5.25</PercentAmount><Value>16</Value><RangeTo>30</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>30</RangeFrom><Amount>0.00</Amount><PercentAmount>3.25</PercentAmount><Value>16</Value><RangeTo>600</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>600</RangeFrom><Amount>0.00</Amount><PercentAmount>1.75</PercentAmount><Value>16</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>18</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Merchant Tool Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>0</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>18</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Merchant Tool Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1258</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1258</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1258</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1258</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1259</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1259</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1259</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1259</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1260</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1260</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1260</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1260</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1607</CategoryId><RangeFrom>0</RangeFrom><Amount>30.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>1607</CategoryId><RangeFrom>0</RangeFrom><Amount>30.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>6.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>3000</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>3000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.5</PercentAmount><Value>2</Value><RangeTo>6000</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>6000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>3.00</Amount><PercentAmount>0.0</PercentAmount><Value>9</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>13</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>13</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>6.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>3000</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>3000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.5</PercentAmount><Value>16</Value><RangeTo>6000</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>9800</CategoryId><RangeFrom>6000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>10542</CategoryId><RangeFrom>0</RangeFrom><Amount>35.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>10542</CategoryId><RangeFrom>0</RangeFrom><Amount>2.00</Amount><PercentAmount>0.0</PercentAmount><Value>9</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>10542</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>13</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>10542</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>13</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>10542</CategoryId><RangeFrom>0</RangeFrom><Amount>35.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11997</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11997</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11997</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11997</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11998</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11998</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11998</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11998</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11999</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11999</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11999</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>11999</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12000</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12000</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12000</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12000</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12001</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12001</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12001</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12001</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12002</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12002</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12002</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>12002</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>0</RangeFrom><Amount>6.00</Amount><PercentAmount>0.0</PercentAmount><Value>1</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>3000</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>3000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.5</PercentAmount><Value>2</Value><RangeTo>6000</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>6000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>2</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>0</RangeFrom><Amount>3.00</Amount><PercentAmount>0.0</PercentAmount><Value>9</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Reserve Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>0</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>13</Value><RangeTo>0</RangeTo><Currency>3</Currency><Description><![CDATA[Schedule Item Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>0</RangeFrom><Amount>6.00</Amount><PercentAmount>0.0</PercentAmount><Value>15</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Insertion Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>0</RangeFrom><Amount>15.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>3000</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>3000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.5</PercentAmount><Value>16</Value><RangeTo>6000</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+<Entry>
+<CategoryId>14679</CategoryId><RangeFrom>6000</RangeFrom><Amount>0.00</Amount><PercentAmount>0.0</PercentAmount><Value>16</Value><RangeTo>999999999</RangeTo><Currency>3</Currency><Description><![CDATA[Basic Fixed Price Final Value Fee]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>AuctionType</Name><Entry>
+<Value>1</Value><Description><![CDATA[Chinese Auction]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Dutch Auction]]></Description></Entry>
+<Entry>
+<Value>5</Value><Description><![CDATA[Live Auction]]></Description></Entry>
+<Entry>
+<Value>6</Value><Description><![CDATA[Advertising Format]]></Description></Entry>
+<Entry>
+<Value>7</Value><Description><![CDATA[Store Fixed Price]]></Description></Entry>
+<Entry>
+<Value>8</Value><Description><![CDATA[Personal Offer]]></Description></Entry>
+<Entry>
+<Value>9</Value><Description><![CDATA[Basic Fixed Price]]></Description></Entry>
+<Entry>
+<Value>10</Value><Description><![CDATA[Wanted Item]]></Description></Entry>
+<Entry>
+<Value>12</Value><Description><![CDATA[Half Sale]]></Description></Entry>
+</Detail>
+<Detail>
+<Type>1</Type><Name>AccountStatus</Name><Entry>
+<Value>0</Value><Description><![CDATA[No Account]]></Description></Entry>
+<Entry>
+<Value>1</Value><Description><![CDATA[Active]]></Description></Entry>
+<Entry>
+<Value>2</Value><Description><![CDATA[Pending]]></Description></Entry>
+<Entry>
+<Value>3</Value><Description><![CDATA[Inactive]]></Description></Entry>
+</Detail>
+</Details>
+</eBay>
