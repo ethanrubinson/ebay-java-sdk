@@ -14,6 +14,8 @@ You must build and install the eBay Java SDK before including it as a dependency
 
 ### Building and Installing the eBay Java SDK
 
+> It's recommended to compile this with [JDK 8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html), although JDK 7 will probably work too.
+
 1. Clone this repository:
     ```bash
     git clone https://github.com/ethanrubinson/ebay-java-sdk
