@@ -63,3 +63,89 @@ To include the now-installed SDK in your Maven project, simply add the following
   <version>1131</version>
 </dependency>
 ```
+
+### Including the Installed eBay Java SDK in Java Projects
+
+The eBay Java SDK can also be included in regular Java Projects by configuring your build path.
+
+#### Option 1) Add the SDK as a project dependency
+
+In Eclipse (or your desired IDE), Go to `File > Import...`  and select ` Maven > Existing Maven Projects` as the import source. Browse to the root of the `ebay-java-sdk` folder and import the project.
+
+Next, in your project, look for a setting called `Configure Build Path...` or `Java Build Path`. Add the `ebaysdkcore` project under the 'Projects' tab in the build path settings.
+
+#### Option 2) Add the SDK JAR as a library dependency
+
+Look for a setting called `Configure Build Path...` or `Java Build Path`. Under the 'Libraries' tab in the build path settings click `Add External JARs`.
+
+Add the `ebaysdkcore-1131.jar` which was installed to your Maven local repository. The location of this JAR can be found in the build output above:
+
+`[INFO] Installing .../ebay-java-sdk/target/ebaysdkcore-1131.jar to ...`
+
+### Making an API Call
+
+The following code shows the bare minimum implementation needed to call eBay's Trading API. It gets the current eBay time on the US site and prints it out to the console.
+
+```java
+import java.util.Calendar;
+
+import com.ebay.sdk.ApiContext;
+import com.ebay.sdk.ApiCredential;
+import com.ebay.sdk.call.GeteBayOfficialTimeCall;
+import com.ebay.sdk.helper.ConsoleUtil;
+
+public class ApplicationHelloWorld {
+
+  public static void main(String[] args) {
+    try {
+      /*
+       * Step 1) Instantiate a new instance of ApiContext
+       */
+      ApiContext apiContext = new ApiContext();
+
+      /*
+       * Step 2) Get the ApiCredential instance from the ApiContext you just created.
+       */
+      ApiCredential cred = apiContext.getApiCredential();
+
+      /* 
+       * Step 3) Configure ONE of the following authentication strategies:
+       * 
+       * a) Use an OAuth user-token. This token can be minted from the ebay-oauth-java-client. [RECOMMENDED]
+       * --> cred.setOAuthToken(oAuthToken);
+       * 
+       * b) Use an eBay (Auth'n'Auth) user-token. [NOT RECOMMENDED]
+       * --> cred.seteBayToken(oAuthToken);
+       * 
+       * c) Use your eBay Developer Account and eBay Account credentials directly. [NOT RECOMMENDED]
+       * --> cred.setApiAccount(apiAccount);
+       * --> cred.seteBayAccount(ebayAccount);
+       */
+      String oAuthUserToken = ConsoleUtil.readString("Enter your eBay Authentication Token: ");
+      cred.setOAuthToken(oAuthUserToken);
+
+      /*
+       * Step 4) Set API server URL for the environment you'll be calling.
+       * 
+       *  Production --> https://api.ebay.com/wsapi
+       *  Sandbox    --> https://api.sandbox.ebay.com/wsapi
+       */
+      String apiUrl = ConsoleUtil.readString("Enter eBay SOAP server URL (e.g., https://api.ebay.com/wsapi): ");
+      apiContext.setApiServerUrl(apiUrl);
+
+      /*
+       * Step 5) Create a call object with the ApiContext instance you've configured and execute it.
+       */
+      GeteBayOfficialTimeCall apiCall = new GeteBayOfficialTimeCall(apiContext);
+      Calendar cal = apiCall.geteBayOfficialTime();
+
+      System.out.println("Official eBay Time : " + cal.getTime().toString());
+    } catch (Exception e) {
+      System.out.println("Failed to get the eBay official time.");
+      e.printStackTrace();
+    }
+
+  }
+
+}
+```
